@@ -1,0 +1,94 @@
+commit 08954607deff0719a74fd70cdc0317ea9c346663 (HEAD -> master, origin/master)
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Tue Jun 4 15:39:31 2019 +0100
+
+    Add isardSAT challenge presentation
+
+commit 6fb06c5a179909ddd106c0fc8fbaf2c520b51f45
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Tue Jun 4 15:37:27 2019 +0100
+
+    Update with day 3 output
+
+    Rerunning soil moisture and temperature plots with new data.
+    Case study with new data on Nkomazi municipality, South Africa: plotting malaria cases and precipitation over time.
+    Fine-tuning dashboard widget to view waveform plots alongside recent rainfall data, together with a map of the measurement coordinates.
+    Collecting results, plots, and graphics; summarizing project aims, approaches, challenges, progress, and future outlook for group presentations.
+    Delivering group presentation with other PhD students. Conference concludes.
+
+commit 296f071d074dc657efd3cecf33027fc3f5ba26a4
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Tue Jun 4 11:12:41 2019 +0100
+
+    Add day 3 data: Nkomazi case study
+
+    We are provided with data on monthly malaria cases and daily precipitation for the Nkomazi municipality of South Africa. The malaria cases data were used in a paper which has also been included in this directory.
+
+commit 9a0366ed29525d8372f9243f8831de9aad98aab9
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Tue Jun 4 00:45:50 2019 +0100
+
+    Add day 3 data: soil moisture, temperature over extended time range
+
+    Add datasets with soil moisture and land surface temperature measurements from 2016-09-15_to_2019-05-24, over 1 year's worth of additional data compared to the datasets provided on day 1.
+
+commit d52842629e5bf9529e9b87a43abebaaafcac8ddf
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Tue Jun 4 00:41:50 2019 +0100
+
+    Relocate soil moisture and temperature data
+
+commit 836fa2f09e587460d58d6fe1326dbc140cf0f4c6
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Fri May 24 03:12:28 2019 +0100
+
+    Update with day 2 output
+
+    Completing analysis of day 1 data: plotting temperature and soil moisture profiles of each location over the measurement period, writing commentary on the results.
+    Datasets for day 2 released: radar waveforms and precipitation records.
+    Research into international time standards, and conversion of gps timestamps in International Atomic Time (TAI) into common international standard  Coordinated Universal Time (UTC) - data preprocessing step.
+    Visualizing the day 2 data including plotting rainfall over time, longitude-latitude plots of satellite measurement locations.
+    Building a dashboard widget to view waveform plots alongside recent rainfall data (work-in-progress).
+    Conference dinner and professional networking with KTN organizers, industry representatives (challenge setters), and members of Cardiff University academic staff.
+
+commit 9095449f653d7d2ad51c69402acb29ad9b0405e7
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Fri May 24 00:30:48 2019 +0100
+
+    Add day 2 data: precipitation and waveforms
+
+commit d6a9ae75f2094045effa3f05be655bfa3de82fb4
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Fri May 24 00:29:48 2019 +0100
+
+    Relocate soil moisture and temperature data
+
+commit b1806a459c0834520236e9ceea7c7cf8dd674914
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Thu May 23 00:53:35 2019 +0100
+
+    Rename notebook, upload day 1 output
+
+    Challenge problems introduced by industry representatives in the morning.
+    Choosing a problem to work on, group forming and discussion. Debating the scope and goals of the project.
+    Identifying data provided, desired data availability, and open access data sources.
+    Reviewing existing literature on malaria outbreak warning.
+    Initial data preprocessing and analysis of summary statistics.
+
+commit 712bc2db9464db5278a3678cbe24996367d8cf5d
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Thu May 23 00:43:53 2019 +0100
+
+    Add raw data files
+
+commit 22e5ee7fbaf600dc55c6b88bffdb493926eca41a
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Wed May 22 09:53:18 2019 +0100
+
+    Create Day_1.ipynb
+
+commit 82a8c4637ae0ec61e3dea93dd407df5481ac0068
+Author: Edward Pearce <38229933+EdwardMPearce@users.noreply.github.com>
+Date:   Wed May 22 09:48:37 2019 +0100
+
+    Initial commit
