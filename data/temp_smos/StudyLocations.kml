@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>0</value>
+    </Data>
+    <Data name='color'>
+      <value>#8888ff</value>
+    </Data>
+    <Data name='name'>
+      <value>Thabazimbi</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>27.4,-24.6 </coordinates>
+  </Point>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1</value>
+    </Data>
+    <Data name='color'>
+      <value>#ff8888</value>
+    </Data>
+    <Data name='name'>
+      <value>Bushbuckridge</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>31.052,-24.841 </coordinates>
+  </Point>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2</value>
+    </Data>
+    <Data name='color'>
+      <value>#88ff88</value>
+    </Data>
+    <Data name='name'>
+      <value>Inhambane</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>35.383,-23.865 </coordinates>
+  </Point>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>3</value>
+    </Data>
+    <Data name='color'>
+      <value>#ff88ff</value>
+    </Data>
+    <Data name='name'>
+      <value>Vila Machado</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>34.21,-19.27 </coordinates>
+  </Point>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>4</value>
+    </Data>
+    <Data name='color'>
+      <value>#ffff88</value>
+    </Data>
+    <Data name='name'>
+      <value>Yatya</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>35.954,0.789 </coordinates>
+  </Point>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>5</value>
+    </Data>
+    <Data name='color'>
+      <value>#88ffff</value>
+    </Data>
+    <Data name='name'>
+      <value>Tzaneen</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>30.15,-23.83 </coordinates>
+  </Point>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>6</value>
+    </Data>
+    <Data name='color'>
+      <value>#888888</value>
+    </Data>
+    <Data name='name'>
+      <value>Chimoio</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>33.46,-19.11 </coordinates>
+  </Point>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>7</value>
+    </Data>
+    <Data name='color'>
+      <value>#000000</value>
+    </Data>
+    <Data name='name'>
+      <value>Mawanga</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>36.1,-0.26 </coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
