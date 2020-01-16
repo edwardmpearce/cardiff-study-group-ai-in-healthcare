@@ -3,7 +3,7 @@
 - Problem brief [presentation](https://github.com/edwardmpearce/cardiff-study-group-ai-in-healthcare/blob/master/presentations/isardSAT_MalarSAT_presentation.pptx)
 - Source code [notebook](https://github.com/edwardmpearce/cardiff-study-group-ai-in-healthcare/blob/master/exploratory_data_analysis.ipynb)
 - Final [presentation](https://github.com/edwardmpearce/cardiff-study-group-ai-in-healthcare/blob/master/presentations/final_presentation.pptx)
-- [Commit log](https://github.com/edwardmpearce/cardiff-study-group-ai-in-healthcare/blob/master/event_log.txt) from during the event
+- [Commit log](https://github.com/edwardmpearce/cardiff-study-group-ai-in-healthcare/blob/master/event_commit_log.txt) from during the event
 
 ## Event Links
 
